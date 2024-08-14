@@ -1,11 +1,299 @@
 [
     {
-        "name": "",
-        "description": "",
+        "name": "Bahamut Sword",
+        "description": "A sword of immense power, capable of enhancing characters from different races.",
         "level": 1,
-        "rank": "",
-        "imgUrl": "",
-        "attack": 0,
-        "sign": ""
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/1/17/Weapon_b_1030004400.png/462px-Weapon_b_1030004400.png",
+        "attack": 4000,
+        "sign": "add"
+    },
+    {
+        "name": "Aqua Blade",
+        "description": "A blade that channels the power of water, dealing strong water-based damage.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/7/70/Weapon_b_1030006000.png/462px-Weapon_b_1030006000.png",
+        "attack": 3800,
+        "sign": "add"
+    },
+    {
+        "name": "Xeno Infernal Flamescythe",
+        "description": "A sword born from flames, enhancing fire-based attacks.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/22/Xeno_Infernal_Flamescythe.png/462px-Xeno_Infernal_Flamescythe.png",
+        "attack": 4300,
+        "sign": "add"
+    },
+    {
+        "name": "Luminiera Sword Omega",
+        "description": "A light-element sword that empowers allies with holy energy.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/3/33/Weapon_b_1040007200.png/462px-Weapon_b_1040007200.png",
+        "attack": 4000,
+        "sign": "add"
+    },
+    {
+        "name": "Celeste Claw Omega",
+        "description": "A dark-element claw that drains life from enemies.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/d/dc/Weapon_b_1040604300.png/462px-Weapon_b_1040604300.png",
+        "attack": 4200,
+        "sign": "add"
+    },
+    {
+        "name": "Grimnir's Scythe",
+        "description": "A wind-element scythe that brings forth storms upon its enemies.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/f/f9/Weapon_b_1040304900.png/462px-Weapon_b_1040304900.png",
+        "attack": 4400,
+        "sign": "add"
+    },
+    {
+        "name": "Eden",
+        "description": "A spear wielded by divine beings, harnessing the power of light.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/9/90/Weapon_b_1040207000.png/462px-Weapon_b_1040207000.png",
+        "attack": 4500,
+        "sign": "add"
+    },
+    {
+        "name": "Suparna's Gauntlet",
+        "description": "A pair of gauntlets that enhance physical strength with the power of wind.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/9/9e/Weapon_b_1040107900.png/462px-Weapon_b_1040107900.png",
+        "attack": 3700,
+        "sign": "add"
+    },
+    {
+        "name": "Keraunos",
+        "description": "A powerful staff that calls down thunder and lightning.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/1/13/Weapon_b_1040402900.png/462px-Weapon_b_1040402900.png",
+        "attack": 4100,
+        "sign": "add"
+    },
+    {
+        "name": "Fediel",
+        "description": "A spear blessed by the dragon Fediel, granting dark power to its user.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/20/Weapon_b_1040020300.png/462px-Weapon_b_1040020300.png",
+        "attack": 4300,
+        "sign": "add"
+    },
+    {
+        "name": "Love Eternal",
+        "description": "A wand blessed with the power of love and light.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/4/40/Weapon_b_1040105400.png/462px-Weapon_b_1040105400.png",
+        "attack": 4000,
+        "sign": "add"
+    },
+    {
+        "name": "Sephira Emerald Sword",
+        "description": "A sword made from a rare Sephira gem, radiating magical power.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/7/75/Weapon_b_1040015200.png/462px-Weapon_b_1040015200.png",
+        "attack": 4300,
+        "sign": "add"
+    },
+    {
+        "name": "Avenger",
+        "description": "A spear created to avenge fallen heroes, brimming with dark energy.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/0/04/Weapon_b_1040302300.png/462px-Weapon_b_1040302300.png",
+        "attack": 4400,
+        "sign": "add"
+    },
+    {
+        "name": "Rusty Katana",
+        "description": "A simple katana that has seen better days but still deals damage.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "https://gbf.wiki/images/thumb/5/50/Weapon_b_1030900600.png/462px-Weapon_b_1030900600.png",
+        "attack": 1200,
+        "sign": "add"
+    },
+    {
+        "name": "Atma Sword",
+        "description": "A mystical sword that enhances both attack and defense.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/6/6d/Weapon_b_1040011300.png/462px-Weapon_b_1040011300.png",
+        "attack": 4600,
+        "sign": "add"
+    },
+    {
+        "name": "Blushing Blossom Bow",
+        "description": "A delicate yet powerful bow infused with flower petals.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/1/13/Weapon_b_1040606100.png/462px-Weapon_b_1040606100.png",
+        "attack": 3800,
+        "sign": "add"
+    },
+    {
+        "name": "Zion's Sword",
+        "description": "A holy sword blessed by the light of Zion.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/9/98/Weapon_b_1040915500.png/462px-Weapon_b_1040915500.png",
+        "attack": 4400,
+        "sign": "add"
+    },
+    {
+        "name": "Parazonium",
+        "description": "A short sword that grants swift attacks and quick reflexes.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/f/f8/Weapon_b_1040108700.png/462px-Weapon_b_1040108700.png",
+        "attack": 4300,
+        "sign": "add"
+    },
+    {
+        "name": "Ultima Sword",
+        "description": "A legendary sword that brings out the wielder's full potential.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/f/f0/Weapon_b_1040011900.png/462px-Weapon_b_1040011900.png",
+        "attack": 4700,
+        "sign": "add"
+    },
+    {
+        "name": "Seven-Star Sword",
+        "description": "A sword blessed by the stars, it wields celestial power.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/7/7b/Weapon_b_1040002400.png/462px-Weapon_b_1040002400.png",
+        "attack": 4600,
+        "sign": "add"
+    },
+    {
+        "name": "Mirage Knife",
+        "description": "A swift dagger that confuses foes with illusions.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/20/Weapon_b_1030100100.png/462px-Weapon_b_1030100100.png",
+        "attack": 4200,
+        "sign": "add"
+    },
+    {
+        "name": "Sky Piercer",
+        "description": "A spear that pierces the heavens with its might.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/4/4f/Sky_Piercer.png/462px-Sky_Piercer.png",
+        "attack": 4300,
+        "sign": "add"
+    },
+    {
+        "name": "Glacial Dream Spear",
+        "description": "A spear formed from ice, freezing enemies in their tracks.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/9/94/Xeno_Glacial_Dream_Staff.png/462px-Xeno_Glacial_Dream_Staff.png",
+        "attack": 4400,
+        "sign": "add"
+    },
+    {
+        "name": "Crimson Finger",
+        "description": "A flaming fist that strikes with the power of fire.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/5/5c/Weapon_b_1040600200.png/462px-Weapon_b_1040600200.png",
+        "attack": 4600,
+        "sign": "add"
+    },
+    {
+        "name": "Frostbite",
+        "description": "A blade that chills its enemies to the bone with every strike.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/f/f7/Weapon_b_1040012500.png/462px-Weapon_b_1040012500.png",
+        "attack": 4300,
+        "sign": "add"
+    },
+    {
+        "name": "Hellfire Blade",
+        "description": "A sword engulfed in flames from the underworld, scorching its foes.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/d/df/Weapon_b_1030000700.png/462px-Weapon_b_1030000700.png",
+        "attack": 4700,
+        "sign": "add"
+    },
+    {
+        "name": "Seraphic Wing",
+        "description": "A divine spear that grants holy power to its wielder.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/5/58/Weapon_b_1040711600.png/462px-Weapon_b_1040711600.png",
+        "attack": 4400,
+        "sign": "add"
+    },
+    {
+        "name": "Twin Serpent Spear",
+        "description": "A spear crafted with two serpent heads, enhancing earth-based attacks.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/9/94/Weapon_b_1040215400.png/462px-Weapon_b_1040215400.png",
+        "attack": 4300,
+        "sign": "add"
+    },
+    {
+        "name": "Heaven's Cloud",
+        "description": "A blade that controls the power of the skies.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/4/4a/Weapon_b_1040103800.png/462px-Weapon_b_1040103800.png",
+        "attack": 4600,
+        "sign": "add"
+    },
+    {
+        "name": "Nebuchad",
+        "description": "A magical gun capable of firing devastating rounds of pure energy.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/c/ca/Weapon_b_1040503500.png/462px-Weapon_b_1040503500.png",
+        "attack": 4700,
+        "sign": "add"
+    },
+    {
+        "name": "Scathacha's Spear",
+        "description": "A spear blessed by the dragon Scathacha, empowering its wielder with draconic strength.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/a/a0/Weapon_b_1040209400.png/462px-Weapon_b_1040209400.png",
+        "attack": 4500,
+        "sign": "add"
+    },
+    {
+        "name": "Volcanic Blade",
+        "description": "A sword forged in the heart of a volcano, unleashing fiery wrath.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/3/3f/Weapon_b_1040911300.png/462px-Weapon_b_1040911300.png",
+        "attack": 4600,
+        "sign": "add"
+    },
+    {
+        "name": "Sephira Emerald Bow",
+        "description": "A bow formed from rare Sephira gems, radiating arcane energy.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/9/93/Weapon_b_1040708500.png/462px-Weapon_b_1040708500.png",
+        "attack": 4400,
+        "sign": "add"
     }
 ]

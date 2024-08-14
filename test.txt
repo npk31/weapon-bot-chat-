@@ -1,0 +1,72 @@
+    {
+        "name": "Bahamut Sword",
+        "description": "A sword of immense power, capable of enhancing characters from different races.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/1/17/Weapon_b_1030004400.png/462px-Weapon_b_1030004400.png",
+        "attack": 4000,
+        "sign": "add"
+    },
+    {
+        "name": "https://gbf.wiki/images/thumb/3/38/Weapon_b_1040906400.png/462px-Weapon_b_1040906400.png",
+        "description": "A flaming axe that grants fire-based attacks to its wielder.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://example.com/images/ixaba.png",
+        "attack": 4200,
+        "sign": "add"
+    },
+    {
+        "name": "Aqua Blade",
+        "description": "A blade that channels the power of water, dealing strong water-based damage.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/7/70/Weapon_b_1030006000.png/462px-Weapon_b_1030006000.png",
+        "attack": 3800,
+        "sign": "add"
+    },
+    {
+        "name": "Xeno Infernal Flamescythe",
+        "description": "A sword born from flames, enhancing fire-based attacks.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/22/Xeno_Infernal_Flamescythe.png/462px-Xeno_Infernal_Flamescythe.png",
+        "attack": 4300,
+        "sign": "add"
+    },
+    {
+        "name": "Luminiera Sword Omega",
+        "description": "A light-element sword that empowers allies with holy energy.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/3/33/Weapon_b_1040007200.png/462px-Weapon_b_1040007200.png",
+        "attack": 4000,
+        "sign": "add"
+    },
+    {
+        "name": "Celeste Claw Omega",
+        "description": "A dark-element claw that drains life from enemies.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/d/dc/Weapon_b_1040604300.png/462px-Weapon_b_1040604300.png",
+        "attack": 4200,
+        "sign": "add"
+    },
+    {
+        "name": "Grimnir's Scythe",
+        "description": "A wind-element scythe that brings forth storms upon its enemies.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/f/f9/Weapon_b_1040304900.png/462px-Weapon_b_1040304900.png",
+        "attack": 4400,
+        "sign": "add"
+    },
+    {
+        "name": "Eden",
+        "description": "A spear wielded by divine beings, harnessing the power of light.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3joE6wl0585REZMlLJynLvIuHe7GXoB1Gg&s",
+        "attack": 4500,
+        "sign": "add"
+    },

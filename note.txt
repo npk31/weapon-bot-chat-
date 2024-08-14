@@ -1,0 +1,4 @@
+https://prd-game-a-granbluefantasy.akamaized.net/assets_en/img_low/sp/assets/weapon/b/1010000000.png - https://prd-game-a-granbluefantasy.akamaized.net/assets_en/img_low/sp/assets/weapon/m/1010001700.jpg
+https://prd-game-a-granbluefantasy.akamaized.net/assets_en/img_low/sp/assets/weapon/b/1010100000.png - https://prd-game-a-granbluefantasy.akamaized.net/assets_en/img_low/sp/assets/weapon/m/1010101700.jpg
+https://prd-game-a-granbluefantasy.akamaized.net/assets_en/img_low/sp/assets/weapon/b/1010200000.png - https://prd-game-a4-granbluefantasy.akamaized.net/assets_en/img_low/sp/assets/weapon/m/1010201600.jpg
+https://prd-game-a-granbluefantasy.akamaized.net/assets_en/img_low/sp/assets/weapon/b/1010300000.png - https://prd-game-a-granbluefantasy.akamaized.net/assets_en/img_low/sp/assets/weapon/b/1010301400.png
