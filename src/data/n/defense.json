@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Iron Shield",
-        "description": "A sturdy iron shield that provides moderate protection.",
+        "description": "Một cái khiên sắt vững chắc cung cấp sự bảo vệ vừa phải.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "name": "Bronze Shield",
-        "description": "A shield made of bronze, offering enhanced defense.",
+        "description": "Một cái khiên làm bằng đồng, cung cấp khả năng phòng thủ nâng cao.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "name": "Steel Shield",
-        "description": "A heavy steel shield designed for improved defense.",
+        "description": "Một cái khiên bằng thép nặng được thiết kế để cải thiện khả năng phòng thủ.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "name": "Silver Shield",
-        "description": "A shield made of silver, providing superior protection.",
+        "description": "Một cái khiên làm bằng bạc, cung cấp sự bảo vệ vượt trội.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "name": "Wooden Buckler",
-        "description": "A small wooden buckler for basic defense.",
+        "description": "Một cái khiên nhỏ bằng gỗ dành cho phòng thủ cơ bản.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "name": "Iron Buckler",
-        "description": "A small iron buckler that offers decent protection.",
+        "description": "Một cái khiên nhỏ bằng sắt cung cấp sự bảo vệ khá.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
@@ -62,7 +62,7 @@
     {
         "id": 7,
         "name": "Bronze Buckler",
-        "description": "A bronze buckler that provides enhanced defense.",
+        "description": "Một cái khiên bằng đồng cung cấp khả năng phòng thủ nâng cao.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
@@ -72,7 +72,7 @@
     {
         "id": 8,
         "name": "Steel Buckler",
-        "description": "A durable steel buckler offering better protection.",
+        "description": "Một cái khiên bằng thép bền bỉ cung cấp sự bảo vệ tốt hơn.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
@@ -82,7 +82,7 @@
     {
         "id": 9,
         "name": "Silver Buckler",
-        "description": "A silver buckler with superior defensive capabilities.",
+        "description": "Một cái khiên bằng bạc với khả năng phòng thủ vượt trội.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
@@ -92,7 +92,7 @@
     {
         "id": 10,
         "name": "Leather Shield",
-        "description": "A simple shield made from leather, offering basic defense.",
+        "description": "Một cái khiên đơn giản làm từ da, cung cấp phòng thủ cơ bản.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
@@ -102,7 +102,7 @@
     {
         "id": 11,
         "name": "Iron Kite Shield",
-        "description": "A kite-shaped iron shield providing substantial protection.",
+        "description": "Một cái khiên hình chiếc diều bằng sắt cung cấp sự bảo vệ đáng kể.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
@@ -112,7 +112,7 @@
     {
         "id": 12,
         "name": "Bronze Kite Shield",
-        "description": "A bronze kite shield that enhances defense.",
+        "description": "Một cái khiên hình chiếc diều bằng đồng, tăng cường khả năng phòng thủ.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
@@ -122,7 +122,7 @@
     {
         "id": 13,
         "name": "Steel Kite Shield",
-        "description": "A robust steel kite shield offering excellent protection.",
+        "description": "Một cái khiên hình chiếc diều bằng thép chắc chắn cung cấp sự bảo vệ xuất sắc.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",

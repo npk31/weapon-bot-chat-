@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Iron Sword",
-        "description": "A versatile sword that offers both attack and defense.",
+        "description": "Một thanh kiếm đa năng cung cấp cả tấn công và phòng thủ.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/3/30/Weapon_b_1010001300.png/462px-Weapon_b_1010001300.png",
@@ -14,7 +14,7 @@
     {
         "id": 2,
         "name": "Bronze Axe",
-        "description": "A powerful axe with moderate defensive capabilities.",
+        "description": "Một cái rìu mạnh mẽ với khả năng phòng thủ vừa phải.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/d/dd/Weapon_b_1010300000.png/462px-Weapon_b_1010300000.png",
@@ -26,7 +26,7 @@
     {
         "id": 3,
         "name": "Steel Spear",
-        "description": "A steel spear that balances attack power and defense.",
+        "description": "Một cái giáo bằng thép cân bằng giữa sức mạnh tấn công và phòng thủ.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/0/03/Weapon_b_1010201300.png/462px-Weapon_b_1010201300.png",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "name": "Iron Mace",
-        "description": "A mace with good balance between attack and defense.",
+        "description": "Một cái búa với sự cân bằng tốt giữa tấn công và phòng thủ.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/5/5a/Weapon_b_1010400600.png/462px-Weapon_b_1010400600.png",

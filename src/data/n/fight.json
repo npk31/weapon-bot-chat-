@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Wooden Staff",
-        "description": "A simple wooden staff with no special properties.",
+        "description": "Một cây gậy gỗ đơn giản không có thuộc tính đặc biệt.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/3/3f/Weapon_b_1010400000.png/462px-Weapon_b_1010400000.png",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "name": "Iron Dagger",
-        "description": "A small, iron dagger suitable for basic combat.",
+        "description": "Một con dao sắt nhỏ, phù hợp cho chiến đấu cơ bản.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/a/a3/Weapon_b_1010100700.png/462px-Weapon_b_1010100700.png",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "name": "Basic Bow",
-        "description": "An entry-level bow for beginner archers.",
+        "description": "Một cung cấp cơ bản cho các cung thủ mới bắt đầu.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/b/b9/Weapon_b_1040701700.png/462px-Weapon_b_1040701700.png",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "name": "Copper Sword",
-        "description": "A sword made of copper with basic durability.",
+        "description": "Một thanh kiếm làm bằng đồng với độ bền cơ bản.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/0/03/Weapon_b_1040000500.png/462px-Weapon_b_1040000500.png",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "name": "Stone Axe",
-        "description": "An axe with a stone blade, suitable for basic use.",
+        "description": "Một cái rìu với lưỡi đá, phù hợp cho việc sử dụng cơ bản.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/e/ef/Weapon_b_1020301000.png/462px-Weapon_b_1020301000.png",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "name": "Bronze Spear",
-        "description": "A spear made of bronze, offering moderate performance.",
+        "description": "Một cây giáo bằng đồng, cung cấp hiệu suất trung bình.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/7/77/Weapon_b_1010200500.png/462px-Weapon_b_1010200500.png",
@@ -62,7 +62,7 @@
     {
         "id": 7,
         "name": "Iron Mace",
-        "description": "A heavy mace made of iron, designed for powerful blows.",
+        "description": "Một cây búa nặng bằng sắt, thiết kế để gây ra những cú đánh mạnh mẽ.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/5/51/Weapon_b_1040312600.png/462px-Weapon_b_1040312600.png",
@@ -72,7 +72,7 @@
     {
         "id": 8,
         "name": "Steel Sword",
-        "description": "A sturdy sword forged from steel.",
+        "description": "Một thanh kiếm vững chắc làm từ thép.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/0/01/Weapon_b_1010000200.png/462px-Weapon_b_1010000200.png",
@@ -82,7 +82,7 @@
     {
         "id": 9,
         "name": "Wooden Sword",
-        "description": "A simple sword made of wood.",
+        "description": "Một thanh kiếm đơn giản làm từ gỗ.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/4/45/Wood_Sword.png/462px-Wood_Sword.png",
@@ -92,7 +92,7 @@
     {
         "id": 10,
         "name": "Bronze Hammer",
-        "description": "A hammer made of bronze for basic smashing.",
+        "description": "Một cái búa làm từ đồng cho việc đập cơ bản.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/6/65/Weapon_b_1010300600.png/462px-Weapon_b_1010300600.png",
@@ -102,7 +102,7 @@
     {
         "id": 11,
         "name": "Iron Spear",
-        "description": "A spear with an iron blade, suitable for combat.",
+        "description": "Một cây giáo với lưỡi sắt, phù hợp cho chiến đấu.",
         "level": 1,
         "rank": "N",
         "imgUrl": "https://gbf.wiki/images/thumb/e/e1/Weapon_b_1010200400.png/462px-Weapon_b_1010200400.png",

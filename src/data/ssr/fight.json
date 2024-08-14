@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Bahamut Sword",
-        "description": "A sword of immense power, capable of enhancing characters from different races.",
+        "description": "Một thanh kiếm với sức mạnh khổng lồ, có khả năng tăng cường sức mạnh cho các nhân vật thuộc nhiều chủng tộc khác nhau.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/1/17/Weapon_b_1030004400.png/462px-Weapon_b_1030004400.png",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "name": "Aqua Blade",
-        "description": "A blade that channels the power of water, dealing strong water-based damage.",
+        "description": "Một thanh kiếm điều khiển sức mạnh của nước, gây ra sát thương mạnh mẽ dựa trên nước.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/7/70/Weapon_b_1030006000.png/462px-Weapon_b_1030006000.png",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "name": "Xeno Infernal Flamescythe",
-        "description": "A sword born from flames, enhancing fire-based attacks.",
+        "description": "Một thanh kiếm sinh ra từ ngọn lửa, tăng cường các đòn tấn công dựa trên lửa.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/2/22/Xeno_Infernal_Flamescythe.png/462px-Xeno_Infernal_Flamescythe.png",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "name": "Luminiera Sword Omega",
-        "description": "A light-element sword that empowers allies with holy energy.",
+        "description": "Một thanh kiếm thuộc nguyên tố ánh sáng, tăng cường sức mạnh cho đồng minh bằng năng lượng thánh.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/3/33/Weapon_b_1040007200.png/462px-Weapon_b_1040007200.png",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "name": "Celeste Claw Omega",
-        "description": "A dark-element claw that drains life from enemies.",
+        "description": "Một cái vuốt thuộc nguyên tố bóng tối, hút máu từ kẻ thù.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/d/dc/Weapon_b_1040604300.png/462px-Weapon_b_1040604300.png",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "name": "Grimnir's Scythe",
-        "description": "A wind-element scythe that brings forth storms upon its enemies.",
+        "description": "Một cái lưỡi hái thuộc nguyên tố gió, tạo ra bão tố lên kẻ thù.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/f/f9/Weapon_b_1040304900.png/462px-Weapon_b_1040304900.png",
@@ -62,7 +62,7 @@
     {
         "id": 7,
         "name": "Eden",
-        "description": "A spear wielded by divine beings, harnessing the power of light.",
+        "description": "Một cây giáo được các sinh linh thần thánh sử dụng, khai thác sức mạnh của ánh sáng.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/9/90/Weapon_b_1040207000.png/462px-Weapon_b_1040207000.png",
@@ -72,7 +72,7 @@
     {
         "id": 8,
         "name": "Suparna's Gauntlet",
-        "description": "A pair of gauntlets that enhance physical strength with the power of wind.",
+        "description": "Một đôi găng tay nâng cao sức mạnh thể chất với sức mạnh của gió.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/9/9e/Weapon_b_1040107900.png/462px-Weapon_b_1040107900.png",
@@ -82,7 +82,7 @@
     {
         "id": 9,
         "name": "Keraunos",
-        "description": "A powerful staff that calls down thunder and lightning.",
+        "description": "Một cây gậy quyền năng gọi sấm sét và chớp.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/1/13/Weapon_b_1040402900.png/462px-Weapon_b_1040402900.png",
@@ -92,7 +92,7 @@
     {
         "id": 10,
         "name": "Fediel",
-        "description": "A spear blessed by the dragon Fediel, granting dark power to its user.",
+        "description": "Một cây giáo được ban phước bởi rồng Fediel, mang lại sức mạnh bóng tối cho người sử dụng.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/2/20/Weapon_b_1040020300.png/462px-Weapon_b_1040020300.png",
@@ -102,7 +102,7 @@
     {
         "id": 11,
         "name": "Love Eternal",
-        "description": "A wand blessed with the power of love and light.",
+        "description": "Một cây đũa phép được ban phước với sức mạnh của tình yêu và ánh sáng.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/4/40/Weapon_b_1040105400.png/462px-Weapon_b_1040105400.png",
@@ -112,7 +112,7 @@
     {
         "id": 12,
         "name": "Sephira Emerald Sword",
-        "description": "A sword made from a rare Sephira gem, radiating magical power.",
+        "description": "Một thanh kiếm làm từ viên ngọc Sephira quý hiếm, phát ra sức mạnh ma thuật.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/7/75/Weapon_b_1040015200.png/462px-Weapon_b_1040015200.png",
@@ -122,7 +122,7 @@
     {
         "id": 13,
         "name": "Avenger",
-        "description": "A spear created to avenge fallen heroes, brimming with dark energy.",
+        "description": "Một cây giáo được tạo ra để báo thù cho các anh hùng đã ngã xuống, tràn đầy năng lượng bóng tối.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/0/04/Weapon_b_1040302300.png/462px-Weapon_b_1040302300.png",
@@ -132,7 +132,7 @@
     {
         "id": 14,
         "name": "Rusty Katana",
-        "description": "A simple katana that has seen better days but still deals damage.",
+        "description": "Một thanh katana đơn giản đã trải qua nhiều năm tháng nhưng vẫn gây sát thương.",
         "level": 1,
         "rank": "R",
         "imgUrl": "https://gbf.wiki/images/thumb/5/50/Weapon_b_1030900600.png/462px-Weapon_b_1030900600.png",
@@ -142,7 +142,7 @@
     {
         "id": 15,
         "name": "Atma Sword",
-        "description": "A mystical sword that enhances both attack and defense.",
+        "description": "Một thanh kiếm huyền bí tăng cường cả tấn công và phòng thủ.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/6/6d/Weapon_b_1040011300.png/462px-Weapon_b_1040011300.png",
@@ -152,7 +152,7 @@
     {
         "id": 16,
         "name": "Blushing Blossom Bow",
-        "description": "A delicate yet powerful bow infused with flower petals.",
+        "description": "Một cây cung thanh thoát nhưng mạnh mẽ, được pha trộn với các cánh hoa.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/1/13/Weapon_b_1040606100.png/462px-Weapon_b_1040606100.png",
@@ -162,7 +162,7 @@
     {
         "id": 17,
         "name": "Zion's Sword",
-        "description": "A holy sword blessed by the light of Zion.",
+        "description": "Một thanh kiếm thánh được ban phước bởi ánh sáng của Zion.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/9/98/Weapon_b_1040915500.png/462px-Weapon_b_1040915500.png",
@@ -172,7 +172,7 @@
     {
         "id": 18,
         "name": "Parazonium",
-        "description": "A short sword that grants swift attacks and quick reflexes.",
+        "description": "Một thanh kiếm ngắn cho phép các đòn tấn công nhanh và phản xạ nhanh chóng.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/f/f8/Weapon_b_1040108700.png/462px-Weapon_b_1040108700.png",
@@ -182,7 +182,7 @@
     {
         "id": 19,
         "name": "Ultima Sword",
-        "description": "A legendary sword that brings out the wielder's full potential.",
+        "description": "Một thanh kiếm huyền thoại khai thác tiềm năng tối đa của người sử dụng.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/f/f0/Weapon_b_1040011900.png/462px-Weapon_b_1040011900.png",
@@ -192,7 +192,7 @@
     {
         "id": 20,
         "name": "Seven-Star Sword",
-        "description": "A sword blessed by the stars, it wields celestial power.",
+        "description": "Một thanh kiếm được ban phước bởi các vì sao, mang sức mạnh thiên thể.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/7/7b/Weapon_b_1040002400.png/462px-Weapon_b_1040002400.png",
@@ -202,7 +202,7 @@
     {
         "id": 21,
         "name": "Mirage Knife",
-        "description": "A swift dagger that confuses foes with illusions.",
+        "description": "Một con dao nhanh nhẹn khiến kẻ thù bị rối loạn với những ảo ảnh.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/2/20/Weapon_b_1030100100.png/462px-Weapon_b_1030100100.png",
@@ -212,7 +212,7 @@
     {
         "id": 22,
         "name": "Sky Piercer",
-        "description": "A spear that pierces the heavens with its might.",
+        "description": "Một cây giáo có thể xuyên thủng bầu trời bằng sức mạnh của nó.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/4/4f/Sky_Piercer.png/462px-Sky_Piercer.png",
@@ -222,7 +222,7 @@
     {
         "id": 23,
         "name": "Glacial Dream Spear",
-        "description": "A spear formed from ice, freezing enemies in their tracks.",
+        "description": "Một cây giáo được hình thành từ băng, làm đóng băng kẻ thù.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/9/94/Xeno_Glacial_Dream_Staff.png/462px-Xeno_Glacial_Dream_Staff.png",
@@ -232,7 +232,7 @@
     {
         "id": 24,
         "name": "Crimson Finger",
-        "description": "A flaming fist that strikes with the power of fire.",
+        "description": "Một cú đấm bốc lửa đánh với sức mạnh của lửa.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/5/5c/Weapon_b_1040600200.png/462px-Weapon_b_1040600200.png",
@@ -242,7 +242,7 @@
     {
         "id": 25,
         "name": "Frostbite",
-        "description": "A blade that chills its enemies to the bone with every strike.",
+        "description": "Một thanh kiếm làm đóng băng kẻ thù đến xương với mỗi cú đánh.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/f/f7/Weapon_b_1040012500.png/462px-Weapon_b_1040012500.png",
@@ -252,7 +252,7 @@
     {
         "id": 26,
         "name": "Hellfire Blade",
-        "description": "A sword engulfed in flames from the underworld, scorching its foes.",
+        "description": "Một thanh kiếm bốc lửa từ địa ngục, thiêu đốt kẻ thù của nó.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/d/df/Weapon_b_1030000700.png/462px-Weapon_b_1030000700.png",
@@ -262,7 +262,7 @@
     {
         "id": 27,
         "name": "Seraphic Wing",
-        "description": "A divine spear that grants holy power to its wielder.",
+        "description": "Một cây giáo thần thánh mang lại sức mạnh thánh cho người sử dụng.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/5/58/Weapon_b_1040711600.png/462px-Weapon_b_1040711600.png",
@@ -272,7 +272,7 @@
     {
         "id": 28,
         "name": "Twin Serpent Spear",
-        "description": "A spear crafted with two serpent heads, enhancing earth-based attacks.",
+        "description": "Một cây giáo được chế tạo với hai đầu rắn, tăng cường các đòn tấn công dựa trên đất.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/9/94/Weapon_b_1040215400.png/462px-Weapon_b_1040215400.png",
@@ -282,7 +282,7 @@
     {
         "id": 29,
         "name": "Heaven's Cloud",
-        "description": "A blade that controls the power of the skies.",
+        "description": "Một thanh kiếm điều khiển sức mạnh của bầu trời.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/4/4a/Weapon_b_1040103800.png/462px-Weapon_b_1040103800.png",
@@ -292,7 +292,7 @@
     {
         "id": 30,
         "name": "Nebuchad",
-        "description": "A magical gun capable of firing devastating rounds of pure energy.",
+        "description": "Một khẩu súng ma thuật có khả năng bắn ra những viên đạn năng lượng tàn phá.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/c/ca/Weapon_b_1040503500.png/462px-Weapon_b_1040503500.png",
@@ -302,7 +302,7 @@
     {
         "id": 31,
         "name": "Scathacha's Spear",
-        "description": "A spear blessed by the dragon Scathacha, empowering its wielder with draconic strength.",
+        "description": "Một cây giáo được ban phước bởi rồng Scathacha, tăng cường sức mạnh rồng cho người sử dụng.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/a/a0/Weapon_b_1040209400.png/462px-Weapon_b_1040209400.png",
@@ -312,7 +312,7 @@
     {
         "id": 32,
         "name": "Volcanic Blade",
-        "description": "A sword forged in the heart of a volcano, unleashing fiery wrath.",
+        "description": "Một thanh kiếm được rèn từ trái tim của một ngọn núi lửa, giải phóng sự phẫn nộ lửa.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/3/3f/Weapon_b_1040911300.png/462px-Weapon_b_1040911300.png",
@@ -322,7 +322,7 @@
     {
         "id": 33,
         "name": "Sephira Emerald Bow",
-        "description": "A bow formed from rare Sephira gems, radiating arcane energy.",
+        "description": "Một cây cung được làm từ các viên ngọc Sephira quý hiếm, phát ra năng lượng huyền bí.",
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/9/93/Weapon_b_1040708500.png/462px-Weapon_b_1040708500.png",
