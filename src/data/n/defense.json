@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "name": "Iron Shield",
+        "description": "A sturdy iron shield that provides moderate protection.",
+        "level": 1,
+        "rank": "N",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
+        "defense": 10,
+        "sign": "add"
+    },
+    {
+        "id": 2,
+        "name": "Bronze Shield",
+        "description": "A shield made of bronze, offering enhanced defense.",
+        "level": 1,
+        "rank": "N",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
+        "defense": 12,
+        "sign": "add"
+    },
+    {
+        "id": 3,
+        "name": "Steel Shield",
+        "description": "A heavy steel shield designed for improved defense.",
+        "level": 1,
+        "rank": "N",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
+        "defense": 15,
+        "sign": "add"
+    },
+    {
+        "id": 4,
+        "name": "Silver Shield",
+        "description": "A shield made of silver, providing superior protection.",
+        "level": 1,
+        "rank": "N",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
+        "defense": 18,
+        "sign": "add"
+    },
+    {
+        "id": 5,
+        "name": "Wooden Buckler",
+        "description": "A small wooden buckler for basic defense.",
+        "level": 1,
+        "rank": "N",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
+        "defense": 4,
+        "sign": "add"
+    },
+    {
+        "id": 6,
+        "name": "Iron Buckler",
+        "description": "A small iron buckler that offers decent protection.",
+        "level": 1,
+        "rank": "N",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
+        "defense": 8,
+        "sign": "add"
+    },
+    {
+        "id": 7,
+        "name": "Bronze Buckler",
+        "description": "A bronze buckler that provides enhanced defense.",
+        "level": 1,
+        "rank": "N",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
+        "defense": 10,
+        "sign": "add"
+    },
+    {
+        "id": 8,
+        "name": "Steel Buckler",
+        "description": "A durable steel buckler offering better protection.",
+        "level": 1,
+        "rank": "N",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
+        "defense": 12,
+        "sign": "add"
+    },
+    {
+        "id": 9,
+        "name": "Silver Buckler",
+        "description": "A silver buckler with superior defensive capabilities.",
+        "level": 1,
+        "rank": "N",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
+        "defense": 15,
+        "sign": "add"
+    },
+    {
+        "id": 10,
+        "name": "Leather Shield",
+        "description": "A simple shield made from leather, offering basic defense.",
+        "level": 1,
+        "rank": "N",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
+        "defense": 6,
+        "sign": "add"
+    },
+    {
+        "id": 11,
+        "name": "Iron Kite Shield",
+        "description": "A kite-shaped iron shield providing substantial protection.",
+        "level": 1,
+        "rank": "N",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
+        "defense": 14,
+        "sign": "add"
+    },
+    {
+        "id": 12,
+        "name": "Bronze Kite Shield",
+        "description": "A bronze kite shield that enhances defense.",
+        "level": 1,
+        "rank": "N",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
+        "defense": 16,
+        "sign": "add"
+    },
+    {
+        "id": 13,
+        "name": "Steel Kite Shield",
+        "description": "A robust steel kite shield offering excellent protection.",
+        "level": 1,
+        "rank": "N",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
+        "defense": 20,
+        "sign": "add"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Blade of the Void",
+        "description": "Một thanh kiếm cổ xưa với sức mạnh vừa tấn công vừa phòng thủ.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/0/05/Weapon_b_1040212700.png/462px-Weapon_b_1040212700.png",
+        "attack": 4000,
+        "defense": 3500,
+        "sign_attack": "add",
+        "sign_defense": "add"
+    },
+    {
+        "id": 2,
+        "name": "Guardian's Shield",
+        "description": "Tấm khiên vững chắc hỗ trợ cả phòng thủ và tấn công.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://static.wikia.nocookie.net/sonny/images/e/ee/S2_Unknown.png/revision/latest?cb=20120730225934",
+        "attack": 3800,
+        "defense": 3800,
+        "sign_attack": "add",
+        "sign_defense": "add"
+    },
+    {
+        "id": 3,
+        "name": "Sword of Valor",
+        "description": "Thanh kiếm của người hùng, cung cấp cả sức mạnh tấn công và khả năng phòng thủ.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/0/09/Weapon_b_1040017200.png/462px-Weapon_b_1040017200.png",
+        "attack": 4200,
+        "defense": 3700,
+        "sign_attack": "add",
+        "sign_defense": "add"
+    },
+    {
+        "id": 4,
+        "name": "Shield of Destiny",
+        "description": "Tấm khiên với sức mạnh cả phòng thủ và tấn công.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
+        "attack": 3900,
+        "defense": 4000,
+        "sign_attack": "add",
+        "sign_defense": "add"
+    }
+]

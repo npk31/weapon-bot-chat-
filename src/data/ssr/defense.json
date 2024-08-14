@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Shield of Valor",
+        "description": "Tấm khiên huyền thoại, cung cấp khả năng phòng thủ mạnh mẽ trước mọi đòn tấn công.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/1/17/Ability_m_2349_3.png/50px-Ability_m_2349_3.png",
+        "defense": 5000,
+        "sign": "add"
+    },
+    {
+        "id": 2,
+        "name": "Aegis of the Gods",
+        "description": "Tấm khiên được ban phước bởi các vị thần, bảo vệ chủ nhân khỏi những đòn tấn công chết người.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/e/ec/Ws_skill_hp_m_3_2.png/50px-Ws_skill_hp_m_3_2.png",
+        "defense": 4800,
+        "sign": "add"
+    },
+    {
+        "id": 3,
+        "name": "Celestial Barrier",
+        "description": "Một lớp bảo vệ ma thuật, chặn đứng tất cả các đòn tấn công tầm xa.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/5/53/Ws_skill_hp_3_3.png/50px-Ws_skill_hp_3_3.png",
+        "defense": 4600,
+        "sign": "add"
+    },
+    {
+        "id": 4,
+        "name": "Bulwark of Dawn",
+        "description": "Tấm chắn sáng, bảo vệ khỏi cả đòn tấn công vật lý và ma thuật.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/c/c0/Ability_m_2324_3.png/50px-Ability_m_2324_3.png",
+        "defense": 4700,
+        "sign": "add"
+    },
+    {
+        "id": 5,
+        "name": "Divine Protection",
+        "description": "Lớp phòng thủ từ thần linh, chặn đứng sát thương từ các thế lực bóng tối.",
+        "level": 1,
+        "rank": "SSR",
+        "imgUrl": "https://gbf.wiki/images/thumb/c/c1/Skill_charge_attack.png/50px-Skill_charge_attack.png",
+        "defense": 4900,
+        "sign": "add"
+    },
+    {
+        "id": 6,
+        "name": "Stalwart Defense",
+        "description": "Tăng cường phòng thủ khi bị bao vây bởi kẻ thù, giảm sát thương diện rộng.",
+        "level": 1,
+        "rank": "SR",
+        "imgUrl": "https://gbf.wiki/images/thumb/3/3d/Ability_m_1145_3.png/50px-Ability_m_1145_3.png",
+        "defense": 4000,
+        "sign": "add"
+    }
+]

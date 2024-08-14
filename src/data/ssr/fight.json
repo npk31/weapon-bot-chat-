@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Bahamut Sword",
         "description": "A sword of immense power, capable of enhancing characters from different races.",
         "level": 1,
@@ -9,6 +10,7 @@
         "sign": "add"
     },
     {
+        "id": 2,
         "name": "Aqua Blade",
         "description": "A blade that channels the power of water, dealing strong water-based damage.",
         "level": 1,
@@ -18,6 +20,7 @@
         "sign": "add"
     },
     {
+        "id": 3,
         "name": "Xeno Infernal Flamescythe",
         "description": "A sword born from flames, enhancing fire-based attacks.",
         "level": 1,
@@ -27,6 +30,7 @@
         "sign": "add"
     },
     {
+        "id": 4,
         "name": "Luminiera Sword Omega",
         "description": "A light-element sword that empowers allies with holy energy.",
         "level": 1,
@@ -36,6 +40,7 @@
         "sign": "add"
     },
     {
+        "id": 5,
         "name": "Celeste Claw Omega",
         "description": "A dark-element claw that drains life from enemies.",
         "level": 1,
@@ -45,6 +50,7 @@
         "sign": "add"
     },
     {
+        "id": 6,
         "name": "Grimnir's Scythe",
         "description": "A wind-element scythe that brings forth storms upon its enemies.",
         "level": 1,
@@ -54,6 +60,7 @@
         "sign": "add"
     },
     {
+        "id": 7,
         "name": "Eden",
         "description": "A spear wielded by divine beings, harnessing the power of light.",
         "level": 1,
@@ -63,6 +70,7 @@
         "sign": "add"
     },
     {
+        "id": 8,
         "name": "Suparna's Gauntlet",
         "description": "A pair of gauntlets that enhance physical strength with the power of wind.",
         "level": 1,
@@ -72,6 +80,7 @@
         "sign": "add"
     },
     {
+        "id": 9,
         "name": "Keraunos",
         "description": "A powerful staff that calls down thunder and lightning.",
         "level": 1,
@@ -81,6 +90,7 @@
         "sign": "add"
     },
     {
+        "id": 10,
         "name": "Fediel",
         "description": "A spear blessed by the dragon Fediel, granting dark power to its user.",
         "level": 1,
@@ -90,6 +100,7 @@
         "sign": "add"
     },
     {
+        "id": 11,
         "name": "Love Eternal",
         "description": "A wand blessed with the power of love and light.",
         "level": 1,
@@ -99,6 +110,7 @@
         "sign": "add"
     },
     {
+        "id": 12,
         "name": "Sephira Emerald Sword",
         "description": "A sword made from a rare Sephira gem, radiating magical power.",
         "level": 1,
@@ -108,6 +120,7 @@
         "sign": "add"
     },
     {
+        "id": 13,
         "name": "Avenger",
         "description": "A spear created to avenge fallen heroes, brimming with dark energy.",
         "level": 1,
@@ -117,6 +130,7 @@
         "sign": "add"
     },
     {
+        "id": 14,
         "name": "Rusty Katana",
         "description": "A simple katana that has seen better days but still deals damage.",
         "level": 1,
@@ -126,6 +140,7 @@
         "sign": "add"
     },
     {
+        "id": 15,
         "name": "Atma Sword",
         "description": "A mystical sword that enhances both attack and defense.",
         "level": 1,
@@ -135,6 +150,7 @@
         "sign": "add"
     },
     {
+        "id": 16,
         "name": "Blushing Blossom Bow",
         "description": "A delicate yet powerful bow infused with flower petals.",
         "level": 1,
@@ -144,6 +160,7 @@
         "sign": "add"
     },
     {
+        "id": 17,
         "name": "Zion's Sword",
         "description": "A holy sword blessed by the light of Zion.",
         "level": 1,
@@ -153,6 +170,7 @@
         "sign": "add"
     },
     {
+        "id": 18,
         "name": "Parazonium",
         "description": "A short sword that grants swift attacks and quick reflexes.",
         "level": 1,
@@ -162,6 +180,7 @@
         "sign": "add"
     },
     {
+        "id": 19,
         "name": "Ultima Sword",
         "description": "A legendary sword that brings out the wielder's full potential.",
         "level": 1,
@@ -171,6 +190,7 @@
         "sign": "add"
     },
     {
+        "id": 20,
         "name": "Seven-Star Sword",
         "description": "A sword blessed by the stars, it wields celestial power.",
         "level": 1,
@@ -180,6 +200,7 @@
         "sign": "add"
     },
     {
+        "id": 21,
         "name": "Mirage Knife",
         "description": "A swift dagger that confuses foes with illusions.",
         "level": 1,
@@ -189,6 +210,7 @@
         "sign": "add"
     },
     {
+        "id": 22,
         "name": "Sky Piercer",
         "description": "A spear that pierces the heavens with its might.",
         "level": 1,
@@ -198,6 +220,7 @@
         "sign": "add"
     },
     {
+        "id": 23,
         "name": "Glacial Dream Spear",
         "description": "A spear formed from ice, freezing enemies in their tracks.",
         "level": 1,
@@ -207,6 +230,7 @@
         "sign": "add"
     },
     {
+        "id": 24,
         "name": "Crimson Finger",
         "description": "A flaming fist that strikes with the power of fire.",
         "level": 1,
@@ -216,6 +240,7 @@
         "sign": "add"
     },
     {
+        "id": 25,
         "name": "Frostbite",
         "description": "A blade that chills its enemies to the bone with every strike.",
         "level": 1,
@@ -225,6 +250,7 @@
         "sign": "add"
     },
     {
+        "id": 26,
         "name": "Hellfire Blade",
         "description": "A sword engulfed in flames from the underworld, scorching its foes.",
         "level": 1,
@@ -234,6 +260,7 @@
         "sign": "add"
     },
     {
+        "id": 27,
         "name": "Seraphic Wing",
         "description": "A divine spear that grants holy power to its wielder.",
         "level": 1,
@@ -243,6 +270,7 @@
         "sign": "add"
     },
     {
+        "id": 28,
         "name": "Twin Serpent Spear",
         "description": "A spear crafted with two serpent heads, enhancing earth-based attacks.",
         "level": 1,
@@ -252,6 +280,7 @@
         "sign": "add"
     },
     {
+        "id": 29,
         "name": "Heaven's Cloud",
         "description": "A blade that controls the power of the skies.",
         "level": 1,
@@ -261,6 +290,7 @@
         "sign": "add"
     },
     {
+        "id": 30,
         "name": "Nebuchad",
         "description": "A magical gun capable of firing devastating rounds of pure energy.",
         "level": 1,
@@ -270,6 +300,7 @@
         "sign": "add"
     },
     {
+        "id": 31,
         "name": "Scathacha's Spear",
         "description": "A spear blessed by the dragon Scathacha, empowering its wielder with draconic strength.",
         "level": 1,
@@ -279,6 +310,7 @@
         "sign": "add"
     },
     {
+        "id": 32,
         "name": "Volcanic Blade",
         "description": "A sword forged in the heart of a volcano, unleashing fiery wrath.",
         "level": 1,
@@ -288,6 +320,7 @@
         "sign": "add"
     },
     {
+        "id": 33,
         "name": "Sephira Emerald Bow",
         "description": "A bow formed from rare Sephira gems, radiating arcane energy.",
         "level": 1,
