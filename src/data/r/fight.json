@@ -1,11 +1,153 @@
 [
     {
-        "name": "",
-        "description": "",
+        "id": 1,
+        "name": "Silver Rapier",
+        "description": "Một thanh kiếm mảnh mai với tốc độ chém nhanh.",
         "level": 1,
-        "rank": "",
+        "rank": "R",
         "imgUrl": "",
-        "attack": 0,
-        "sign": ""
+        "attack": 22,
+        "sign": "add"
+    },
+    {
+        "id": 2,
+        "name": "Obsidian Dagger",
+        "description": "Một con dao găm làm từ đá obsidian sắc bén.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "attack": 24,
+        "sign": "add"
+    },
+    {
+        "id": 3,
+        "name": "Hunter Longbow",
+        "description": "Một cây cung dành cho thợ săn, giúp bắn chính xác từ xa.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "attack": 26,
+        "sign": "add"
+    },
+    {
+        "id": 4,
+        "name": "Runed Warhammer",
+        "description": "Một cây búa khắc cổ ngữ, gia tăng sức mạnh chiến đấu.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "attack": 28,
+        "sign": "add"
+    },
+    {
+        "id": 5,
+        "name": "Moonlight Katana",
+        "description": "Thanh katana nhẹ nhàng nhưng cực kỳ sắc bén.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "attack": 30,
+        "sign": "add"
+    },
+    {
+        "id": 6,
+        "name": "Dragon Fang Spear",
+        "description": "Một cây giáo được rèn từ răng rồng cổ đại.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "attack": 32,
+        "sign": "add"
+    },
+    {
+        "id": 7,
+        "name": "Crimson Greatsword",
+        "description": "Một thanh đại kiếm nhuốm máu, tăng sát thương khi HP thấp.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "attack": 35,
+        "sign": "add"
+    },
+    {
+        "id": 8,
+        "name": "Shadowfang Claws",
+        "description": "Cặp móng vuốt ma thuật hấp thụ sức mạnh từ kẻ địch.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "attack": 27,
+        "sign": "add"
+    },
+    {
+        "id": 9,
+        "name": "Celestial Staff",
+        "description": "Một cây trượng chứa ma lực từ các vì sao, tăng sát thương phép.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "attack": 25,
+        "sign": "add"
+    },
+    {
+        "id": 10,
+        "name": "Thunderstrike Axe",
+        "description": "Một rìu chiến với khả năng phát ra tia sét khi chém mạnh.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "attack": 34,
+        "sign": "add"
+    },
+    {
+        "id": 11,
+        "name": "Thunder Pike",
+        "description": "Thương sấm sét, có khả năng làm tê liệt kẻ thù.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "attack": 31,
+        "sign": "add"
+    },
+    {
+        "id": 12,
+        "name": "Cursed Katana",
+        "description": "Katana bị nguyền rủa, mạnh nhưng hút máu người dùng.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "attack": 35,
+        "sign": "add"
+    },
+    {
+        "id": 13,
+        "name": "Solar Flail",
+        "description": "Vũ khí dây xích mang sức mạnh mặt trời.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "attack": 32,
+        "sign": "add"
+    },
+    {
+        "id": 14,
+        "name": "Twilight Lance",
+        "description": "Một cây thương xuyên thủng bóng tối.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "attack": 29,
+        "sign": "add"
+    },
+    {
+        "id": 15,
+        "name": "Inferno Saber",
+        "description": "Kiếm lửa, tăng sát thương theo thời gian.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "attack": 34,
+        "sign": "add"
     }
 ]
+

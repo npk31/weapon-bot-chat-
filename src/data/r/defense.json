@@ -1,11 +1,182 @@
 [
     {
-        "name": "",
-        "description": "",
+        "id": 1,
+        "name": "Titanium Aegis",
+        "description": "Một tấm khiên chắc chắn làm từ titan.",
         "level": 1,
-        "rank": "",
+        "rank": "R",
         "imgUrl": "",
-        "defense": 0,
-        "sign": ""
-    }
+        "defense": 22,
+        "sign": "add"
+    },
+    {
+        "id": 2,
+        "name": "Blessed Targe",
+        "description": "Khiên nhỏ được phù phép bảo vệ khỏi nguyền rủa.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 24,
+        "sign": "add"
+    },
+    {
+        "id": 3,
+        "name": "Emerald Tower Shield",
+        "description": "Khiên cỡ lớn làm từ ngọc lục bảo cứng rắn.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 28,
+        "sign": "add"
+    },
+    {
+        "id": 4,
+        "name": "Phoenix Guard",
+        "description": "Khiên lửa phượng hoàng giúp giảm sát thương hệ hỏa.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 26,
+        "sign": "add"
+    },
+    {
+        "id": 5,
+        "name": "Glacial Buckler",
+        "description": "Một tấm khiên bằng băng tinh khiết, có thể phản sát thương băng.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 25,
+        "sign": "add"
+    },
+    {
+        "id": 6,
+        "name": "Runic Kite Shield",
+        "description": "Khiên ma thuật có thể phản công bằng phép thuật.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 30,
+        "sign": "add"
+    },
+    {
+        "id": 7,
+        "name": "Gilded Wall",
+        "description": "Một khiên phủ vàng trang trí lộng lẫy nhưng vẫn bảo vệ tốt.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 27,
+        "sign": "add"
+    },
+    {
+        "id": 8,
+        "name": "Stone Sentinel",
+        "description": "Khiên đá cực nặng giúp giảm đáng kể sát thương vật lý.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 32,
+        "sign": "add"
+    },
+    {
+        "id": 9,
+        "name": "Obsidian Wall",
+        "description": "Khiên đá núi lửa, giảm sát thương từ đòn vật lý.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 26,
+        "sign": "add"
+    },
+    {
+        "id": 10,
+        "name": "Divine Bulwark",
+        "description": "Khiên phép thuật, hấp thụ sát thương phép.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 28,
+        "sign": "add"
+    },
+    {
+        "id": 11,
+        "name": "Crimson Tower Shield",
+        "description": "Khiên đỏ máu, tăng phòng thủ khi HP thấp.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 32,
+        "sign": "add"
+    },
+    {
+        "id": 12,
+        "name": "Celestial Aegis",
+        "description": "Khiên bảo hộ thiên thể, giảm sát thương từ kẻ thù mạnh.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 30,
+        "sign": "add"
+    },
+    {
+        "id": 13,
+        "name": "Frostguard Shield",
+        "description": "Khiên băng, giảm sát thương từ đòn lửa.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 27,
+        "sign": "add"
+    },
+    {
+        "id": 14,
+        "name": "Eldritch Barrier",
+        "description": "Khiên ma thuật cổ đại, phản công khi bị đánh.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 31,
+        "sign": "add"
+    },
+    {
+        "id": 15,
+        "name": "Titan Guard",
+        "description": "Khiên titan, phòng thủ cực cao nhưng giảm tốc độ.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 35,
+        "sign": "add"
+    },
+    {
+        "id": 16,
+        "name": "Echoing Buckler",
+        "description": "Khiên nhỏ phản lại một phần sát thương nhận được.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 29,
+        "sign": "add"
+    },
+    {
+        "id": 17,
+        "name": "Warden Sentinel",
+        "description": "Khiên hộ vệ, tăng giáp khi đứng yên.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 34,
+        "sign": "add"
+    },
+    {
+        "id": 18,
+        "name": "Spectral Aegis",
+        "description": "Khiên hồn ma, hấp thụ một phần sát thương phép.",
+        "level": 1,
+        "rank": "R",
+        "imgUrl": "",
+        "defense": 33,
+        "sign": "add"
+    }    
 ]
