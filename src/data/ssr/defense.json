@@ -6,7 +6,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/1/17/Ability_m_2349_3.png/50px-Ability_m_2349_3.png",
-        "defense": 5000,
+        "defense": 9500,
         "sign": "add"
     },
     {
@@ -16,7 +16,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/e/ec/Ws_skill_hp_m_3_2.png/50px-Ws_skill_hp_m_3_2.png",
-        "defense": 4800,
+        "defense": 7200,
         "sign": "add"
     },
     {
@@ -26,7 +26,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/5/53/Ws_skill_hp_3_3.png/50px-Ws_skill_hp_3_3.png",
-        "defense": 4600,
+        "defense": 8300,
         "sign": "add"
     },
     {
@@ -36,7 +36,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/c/c0/Ability_m_2324_3.png/50px-Ability_m_2324_3.png",
-        "defense": 4700,
+        "defense": 10000,
         "sign": "add"
     },
     {
@@ -46,7 +46,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/c/c1/Skill_charge_attack.png/50px-Skill_charge_attack.png",
-        "defense": 4900,
+        "defense": 7800,
         "sign": "add"
     },
     {
@@ -54,9 +54,9 @@
         "name": "Stalwart Defense",
         "description": "Tăng cường phòng thủ khi bị bao vây bởi kẻ thù, giảm sát thương diện rộng.",
         "level": 1,
-        "rank": "SR",
+        "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/3/3d/Ability_m_1145_3.png/50px-Ability_m_1145_3.png",
-        "defense": 4000,
+        "defense": 9100,
         "sign": "add"
     }
 ]

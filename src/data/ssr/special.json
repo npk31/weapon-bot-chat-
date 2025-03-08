@@ -6,8 +6,8 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/0/05/Weapon_b_1040212700.png/462px-Weapon_b_1040212700.png",
-        "attack": 4000,
-        "defense": 3500,
+        "attack": 4500,
+        "defense": 3200,
         "sign_attack": "add",
         "sign_defense": "add"
     },
@@ -18,8 +18,8 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://static.wikia.nocookie.net/sonny/images/e/ee/S2_Unknown.png/revision/latest?cb=20120730225934",
-        "attack": 3800,
-        "defense": 3800,
+        "attack": 3700,
+        "defense": 4900,
         "sign_attack": "add",
         "sign_defense": "add"
     },
@@ -30,8 +30,8 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/0/09/Weapon_b_1040017200.png/462px-Weapon_b_1040017200.png",
-        "attack": 4200,
-        "defense": 3700,
+        "attack": 4900,
+        "defense": 3500,
         "sign_attack": "add",
         "sign_defense": "add"
     },
@@ -42,8 +42,8 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/2/2d/Icon_Support_Skill.png/50px-Icon_Support_Skill.png",
-        "attack": 3900,
-        "defense": 4000,
+        "attack": 4000,
+        "defense": 4700,
         "sign_attack": "add",
         "sign_defense": "add"
     }

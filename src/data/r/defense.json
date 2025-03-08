@@ -6,7 +6,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 22,
+        "defense": 50,
         "sign": "add"
     },
     {
@@ -16,7 +16,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 24,
+        "defense": 60,
         "sign": "add"
     },
     {
@@ -26,7 +26,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 28,
+        "defense": 70,
         "sign": "add"
     },
     {
@@ -36,7 +36,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 26,
+        "defense": 80,
         "sign": "add"
     },
     {
@@ -46,7 +46,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 25,
+        "defense": 90,
         "sign": "add"
     },
     {
@@ -56,7 +56,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 30,
+        "defense": 100,
         "sign": "add"
     },
     {
@@ -66,7 +66,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 27,
+        "defense": 110,
         "sign": "add"
     },
     {
@@ -76,7 +76,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 32,
+        "defense": 120,
         "sign": "add"
     },
     {
@@ -86,7 +86,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 26,
+        "defense": 130,
         "sign": "add"
     },
     {
@@ -96,7 +96,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 28,
+        "defense": 140,
         "sign": "add"
     },
     {
@@ -106,7 +106,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 32,
+        "defense": 150,
         "sign": "add"
     },
     {
@@ -116,7 +116,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 30,
+        "defense": 160,
         "sign": "add"
     },
     {
@@ -126,7 +126,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 27,
+        "defense": 170,
         "sign": "add"
     },
     {
@@ -136,7 +136,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 31,
+        "defense": 180,
         "sign": "add"
     },
     {
@@ -146,7 +146,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 35,
+        "defense": 190,
         "sign": "add"
     },
     {
@@ -156,7 +156,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 29,
+        "defense": 200,
         "sign": "add"
     },
     {
@@ -166,7 +166,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 34,
+        "defense": 210,
         "sign": "add"
     },
     {
@@ -176,7 +176,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "defense": 33,
+        "defense": 220,
         "sign": "add"
     }    
 ]

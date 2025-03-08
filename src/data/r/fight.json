@@ -6,7 +6,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "attack": 22,
+        "attack": 50,
         "sign": "add"
     },
     {
@@ -16,7 +16,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "attack": 24,
+        "attack": 60,
         "sign": "add"
     },
     {
@@ -26,7 +26,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "attack": 26,
+        "attack": 70,
         "sign": "add"
     },
     {
@@ -36,7 +36,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "attack": 28,
+        "attack": 80,
         "sign": "add"
     },
     {
@@ -46,7 +46,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "attack": 30,
+        "attack": 90,
         "sign": "add"
     },
     {
@@ -56,7 +56,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "attack": 32,
+        "attack": 100,
         "sign": "add"
     },
     {
@@ -66,7 +66,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "attack": 35,
+        "attack": 110,
         "sign": "add"
     },
     {
@@ -76,7 +76,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "attack": 27,
+        "attack": 120,
         "sign": "add"
     },
     {
@@ -86,7 +86,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "attack": 25,
+        "attack": 130,
         "sign": "add"
     },
     {
@@ -96,7 +96,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "attack": 34,
+        "attack": 140,
         "sign": "add"
     },
     {
@@ -106,7 +106,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "attack": 31,
+        "attack": 150,
         "sign": "add"
     },
     {
@@ -116,7 +116,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "attack": 35,
+        "attack": 160,
         "sign": "add"
     },
     {
@@ -126,7 +126,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "attack": 32,
+        "attack": 170,
         "sign": "add"
     },
     {
@@ -136,7 +136,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "attack": 29,
+        "attack": 180,
         "sign": "add"
     },
     {
@@ -146,7 +146,7 @@
         "level": 1,
         "rank": "R",
         "imgUrl": "",
-        "attack": 34,
+        "attack": 190,
         "sign": "add"
     }
 ]

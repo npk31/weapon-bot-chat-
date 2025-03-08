@@ -6,7 +6,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/1/17/Weapon_b_1030004400.png/462px-Weapon_b_1030004400.png",
-        "attack": 4000,
+        "attack": 6500,
         "sign": "add"
     },
     {
@@ -16,7 +16,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/7/70/Weapon_b_1030006000.png/462px-Weapon_b_1030006000.png",
-        "attack": 3800,
+        "attack": 5200,
         "sign": "add"
     },
     {
@@ -26,7 +26,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/2/22/Xeno_Infernal_Flamescythe.png/462px-Xeno_Infernal_Flamescythe.png",
-        "attack": 4300,
+        "attack": 6100,
         "sign": "add"
     },
     {
@@ -36,7 +36,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/3/33/Weapon_b_1040007200.png/462px-Weapon_b_1040007200.png",
-        "attack": 4000,
+        "attack": 5900,
         "sign": "add"
     },
     {
@@ -46,7 +46,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/d/dc/Weapon_b_1040604300.png/462px-Weapon_b_1040604300.png",
-        "attack": 4200,
+        "attack": 6800,
         "sign": "add"
     },
     {
@@ -56,7 +56,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/f/f9/Weapon_b_1040304900.png/462px-Weapon_b_1040304900.png",
-        "attack": 4400,
+        "attack": 6200,
         "sign": "add"
     },
     {
@@ -66,7 +66,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/9/90/Weapon_b_1040207000.png/462px-Weapon_b_1040207000.png",
-        "attack": 4500,
+        "attack": 6700,
         "sign": "add"
     },
     {
@@ -76,7 +76,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/9/9e/Weapon_b_1040107900.png/462px-Weapon_b_1040107900.png",
-        "attack": 3700,
+        "attack": 4900,
         "sign": "add"
     },
     {
@@ -86,7 +86,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/1/13/Weapon_b_1040402900.png/462px-Weapon_b_1040402900.png",
-        "attack": 4100,
+        "attack": 5700,
         "sign": "add"
     },
     {
@@ -96,7 +96,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/2/20/Weapon_b_1040020300.png/462px-Weapon_b_1040020300.png",
-        "attack": 4300,
+        "attack": 6300,
         "sign": "add"
     },
     {
@@ -106,7 +106,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/4/40/Weapon_b_1040105400.png/462px-Weapon_b_1040105400.png",
-        "attack": 4000,
+        "attack": 5400,
         "sign": "add"
     },
     {
@@ -116,7 +116,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/7/75/Weapon_b_1040015200.png/462px-Weapon_b_1040015200.png",
-        "attack": 4300,
+        "attack": 6100,
         "sign": "add"
     },
     {
@@ -126,7 +126,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/0/04/Weapon_b_1040302300.png/462px-Weapon_b_1040302300.png",
-        "attack": 4400,
+        "attack": 6400,
         "sign": "add"
     },
     {
@@ -134,9 +134,9 @@
         "name": "Rusty Katana",
         "description": "Một thanh katana đơn giản đã trải qua nhiều năm tháng nhưng vẫn gây sát thương.",
         "level": 1,
-        "rank": "R",
+        "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/5/50/Weapon_b_1030900600.png/462px-Weapon_b_1030900600.png",
-        "attack": 1200,
+        "attack": 4300,
         "sign": "add"
     },
     {
@@ -146,7 +146,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/6/6d/Weapon_b_1040011300.png/462px-Weapon_b_1040011300.png",
-        "attack": 4600,
+        "attack": 7000,
         "sign": "add"
     },
     {
@@ -156,7 +156,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/1/13/Weapon_b_1040606100.png/462px-Weapon_b_1040606100.png",
-        "attack": 3800,
+        "attack": 5200,
         "sign": "add"
     },
     {
@@ -166,7 +166,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/9/98/Weapon_b_1040915500.png/462px-Weapon_b_1040915500.png",
-        "attack": 4400,
+        "attack": 6400,
         "sign": "add"
     },
     {
@@ -176,7 +176,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/f/f8/Weapon_b_1040108700.png/462px-Weapon_b_1040108700.png",
-        "attack": 4300,
+        "attack": 6100,
         "sign": "add"
     },
     {
@@ -186,7 +186,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/f/f0/Weapon_b_1040011900.png/462px-Weapon_b_1040011900.png",
-        "attack": 4700,
+        "attack": 7000,
         "sign": "add"
     },
     {
@@ -196,7 +196,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/7/7b/Weapon_b_1040002400.png/462px-Weapon_b_1040002400.png",
-        "attack": 4600,
+        "attack": 6900,
         "sign": "add"
     },
     {
@@ -206,7 +206,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/2/20/Weapon_b_1030100100.png/462px-Weapon_b_1030100100.png",
-        "attack": 4200,
+        "attack": 6800,
         "sign": "add"
     },
     {
@@ -216,7 +216,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/4/4f/Sky_Piercer.png/462px-Sky_Piercer.png",
-        "attack": 4300,
+        "attack": 6100,
         "sign": "add"
     },
     {
@@ -226,7 +226,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/9/94/Xeno_Glacial_Dream_Staff.png/462px-Xeno_Glacial_Dream_Staff.png",
-        "attack": 4400,
+        "attack": 6400,
         "sign": "add"
     },
     {
@@ -236,7 +236,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/5/5c/Weapon_b_1040600200.png/462px-Weapon_b_1040600200.png",
-        "attack": 4600,
+        "attack": 6900,
         "sign": "add"
     },
     {
@@ -246,7 +246,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/f/f7/Weapon_b_1040012500.png/462px-Weapon_b_1040012500.png",
-        "attack": 4300,
+        "attack": 6100,
         "sign": "add"
     },
     {
@@ -256,7 +256,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/d/df/Weapon_b_1030000700.png/462px-Weapon_b_1030000700.png",
-        "attack": 4700,
+        "attack": 7000,
         "sign": "add"
     },
     {
@@ -266,7 +266,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/5/58/Weapon_b_1040711600.png/462px-Weapon_b_1040711600.png",
-        "attack": 4400,
+        "attack": 6400,
         "sign": "add"
     },
     {
@@ -276,7 +276,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/9/94/Weapon_b_1040215400.png/462px-Weapon_b_1040215400.png",
-        "attack": 4300,
+        "attack": 6100,
         "sign": "add"
     },
     {
@@ -286,7 +286,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/4/4a/Weapon_b_1040103800.png/462px-Weapon_b_1040103800.png",
-        "attack": 4600,
+        "attack": 6900,
         "sign": "add"
     },
     {
@@ -296,7 +296,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/c/ca/Weapon_b_1040503500.png/462px-Weapon_b_1040503500.png",
-        "attack": 4700,
+        "attack": 7000,
         "sign": "add"
     },
     {
@@ -306,7 +306,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/a/a0/Weapon_b_1040209400.png/462px-Weapon_b_1040209400.png",
-        "attack": 4500,
+        "attack": 6700,
         "sign": "add"
     },
     {
@@ -316,7 +316,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/3/3f/Weapon_b_1040911300.png/462px-Weapon_b_1040911300.png",
-        "attack": 4600,
+        "attack": 6900,
         "sign": "add"
     },
     {
@@ -326,7 +326,7 @@
         "level": 1,
         "rank": "SSR",
         "imgUrl": "https://gbf.wiki/images/thumb/9/93/Weapon_b_1040708500.png/462px-Weapon_b_1040708500.png",
-        "attack": 4400,
+        "attack": 6400,
         "sign": "add"
     }
 ]

@@ -1,11 +1,192 @@
 [
     {
-        "name": "",
-        "description": "",
-        "level": 1,
-        "rank": "",
+        "id": 1,
+        "name": "Flame Sword",
+        "description": "A sword engulfed in flames.",
+        "level": 2,
+        "rank": "SR",
         "imgUrl": "",
-        "attack": 0,
-        "sign": ""
+        "attack": 2345,
+        "sign": "add"
+    },
+    {
+        "id": 2,
+        "name": "Ice Spear",
+        "description": "A spear made of solid ice.",
+        "level": 2,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 3456,
+        "sign": "add"
+    },
+    {
+        "id": 3,
+        "name": "Thunder Axe",
+        "description": "An axe that crackles with electricity.",
+        "level": 3,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 1234,
+        "sign": "add"
+    },
+    {
+        "id": 4,
+        "name": "Wind Bow",
+        "description": "A bow that shoots arrows of wind.",
+        "level": 3,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 890,
+        "sign": "add"
+    },
+    {
+        "id": 5,
+        "name": "Earth Hammer",
+        "description": "A hammer made from the strongest earth materials.",
+        "level": 4,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 1456,
+        "sign": "add"
+    },
+    {
+        "id": 6,
+        "name": "Water Staff",
+        "description": "A staff that controls water.",
+        "level": 4,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 789,
+        "sign": "add"
+    },
+    {
+        "id": 7,
+        "name": "Light Shield",
+        "description": "A shield that shines with the light of the sun.",
+        "level": 5,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 234,
+        "sign": "add"
+    },
+    {
+        "id": 8,
+        "name": "Dark Dagger",
+        "description": "A dagger that absorbs light.",
+        "level": 5,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 1567,
+        "sign": "add"
+    },
+    {
+        "id": 9,
+        "name": "Poison Blade",
+        "description": "A blade coated with deadly poison.",
+        "level": 6,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 1987,
+        "sign": "add"
+    },
+    {
+        "id": 10,
+        "name": "Healing Wand",
+        "description": "A wand that heals wounds.",
+        "level": 6,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 345,
+        "sign": "add"
+    },
+    {
+        "id": 11,
+        "name": "Shadow Scythe",
+        "description": "A scythe that reaps shadows.",
+        "level": 7,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 2345,
+        "sign": "add"
+    },
+    {
+        "id": 12,
+        "name": "Holy Sword",
+        "description": "A sword blessed by the gods.",
+        "level": 7,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 678,
+        "sign": "add"
+    },
+    {
+        "id": 13,
+        "name": "Meteor Hammer",
+        "description": "A hammer that calls down meteors.",
+        "level": 8,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 2345,
+        "sign": "add"
+    },
+    {
+        "id": 14,
+        "name": "Storm Bow",
+        "description": "A bow that summons storms.",
+        "level": 8,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 1234,
+        "sign": "add"
+    },
+    {
+        "id": 15,
+        "name": "Crystal Staff",
+        "description": "A staff made of pure crystal.",
+        "level": 9,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 2345,
+        "sign": "add"
+    },
+    {
+        "id": 16,
+        "name": "Phoenix Blade",
+        "description": "A blade that revives its wielder.",
+        "level": 9,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 678,
+        "sign": "add"
+    },
+    {
+        "id": 17,
+        "name": "Dragon Spear",
+        "description": "A spear with the power of a dragon.",
+        "level": 10,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 2345,
+        "sign": "add"
+    },
+    {
+        "id": 18,
+        "name": "Vampire Dagger",
+        "description": "A dagger that drains life.",
+        "level": 10,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 1234,
+        "sign": "add"
+    },
+    {
+        "id": 19,
+        "name": "Titan Axe",
+        "description": "An axe with the strength of a titan.",
+        "level": 11,
+        "rank": "SR",
+        "imgUrl": "",
+        "attack": 2345,
+        "sign": "add"
     }
 ]
