@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Iron Wall",
         "description": "Một bức tường sắt không thể xuyên thủng.",
         "level": 1,
@@ -9,6 +10,7 @@
         "sign": "add"
     },
     {
+        "id": 2,
         "name": "Dragon Scale",
         "description": "Vảy rồng cứng cáp bảo vệ người dùng.",
         "level": 1,
@@ -18,6 +20,7 @@
         "sign": "add"
     },
     {
+        "id": 3,
         "name": "Mystic Barrier",
         "description": "Một rào chắn huyền bí bảo vệ khỏi mọi nguy hiểm.",
         "level": 1,
@@ -27,6 +30,7 @@
         "sign": "add"
     },
     {
+        "id": 4,
         "name": "Guardian Shield",
         "description": "Khiên bảo vệ của người bảo vệ.",
         "level": 1,
@@ -36,6 +40,7 @@
         "sign": "add"
     },
     {
+        "id": 5,
         "name": "Celestial Armor",
         "description": "Giáp thiên thể bảo vệ khỏi mọi tổn thương.",
         "level": 1,
@@ -45,6 +50,7 @@
         "sign": "add"
     },
     {
+        "id": 6,
         "name": "Phantom Cloak",
         "description": "Áo choàng ma bảo vệ khỏi mọi nguy hiểm.",
         "level": 1,
@@ -54,6 +60,7 @@
         "sign": "add"
     },
     {
+        "id": 7,
         "name": "Titan Guard",
         "description": "Bảo vệ titan không thể xuyên thủng.",
         "level": 1,
@@ -63,6 +70,7 @@
         "sign": "add"
     },
     {
+        "id": 8,
         "name": "Steel Fortress",
         "description": "Pháo đài thép bảo vệ khỏi mọi nguy hiểm.",
         "level": 1,
@@ -72,6 +80,7 @@
         "sign": "add"
     },
     {
+        "id": 9,
         "name": "Divine Shield",
         "description": "Khiên thần thánh bảo vệ khỏi mọi tổn thương.",
         "level": 1,
@@ -81,6 +90,7 @@
         "sign": "add"
     },
     {
+        "id": 10,
         "name": "Eternal Guard",
         "description": "Bảo vệ vĩnh cửu không thể xuyên thủng.",
         "level": 1,
@@ -90,6 +100,7 @@
         "sign": "add"
     },
     {
+        "id": 11,
         "name": "Arcane Barrier",
         "description": "Rào chắn huyền bí bảo vệ khỏi mọi nguy hiểm.",
         "level": 1,
@@ -99,6 +110,7 @@
         "sign": "add"
     },
     {
+        "id": 12,
         "name": "Sacred Armor",
         "description": "Giáp thiêng liêng bảo vệ khỏi mọi tổn thương.",
         "level": 1,
@@ -108,6 +120,7 @@
         "sign": "add"
     },
     {
+        "id": 13,
         "name": "Shadow Cloak",
         "description": "Áo choàng bóng tối bảo vệ khỏi mọi nguy hiểm.",
         "level": 1,
@@ -117,6 +130,7 @@
         "sign": "add"
     },
     {
+        "id": 14,
         "name": "Titanium Guard",
         "description": "Bảo vệ titan không thể xuyên thủng.",
         "level": 1,
@@ -126,6 +140,7 @@
         "sign": "add"
     },
     {
+        "id": 15,
         "name": "Iron Fortress",
         "description": "Pháo đài sắt bảo vệ khỏi mọi nguy hiểm.",
         "level": 1,
@@ -135,6 +150,7 @@
         "sign": "add"
     },
     {
+        "id": 16,
         "name": "Divine Guard",
         "description": "Bảo vệ thần thánh không thể xuyên thủng.",
         "level": 1,
@@ -144,6 +160,7 @@
         "sign": "add"
     },
     {
+        "id": 17,
         "name": "Eternal Shield",
         "description": "Khiên vĩnh cửu bảo vệ khỏi mọi tổn thương.",
         "level": 1,
@@ -153,6 +170,7 @@
         "sign": "add"
     },
     {
+        "id": 18,
         "name": "Arcane Guard",
         "description": "Bảo vệ huyền bí không thể xuyên thủng.",
         "level": 1,
@@ -162,6 +180,7 @@
         "sign": "add"
     },
     {
+        "id": 19,
         "name": "Sacred Shield",
         "description": "Khiên thiêng liêng bảo vệ khỏi mọi tổn thương.",
         "level": 1,
